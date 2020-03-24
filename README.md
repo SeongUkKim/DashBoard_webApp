@@ -1,5 +1,7 @@
 # ElectronJS WebApp DashBoard Map
 
+![Crates.io](https://img.shields.io/crates/l/anitable-tui)
+
 ## 그래프
 ```bash
 d3js api 사용
