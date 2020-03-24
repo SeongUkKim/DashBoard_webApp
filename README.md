@@ -6,8 +6,8 @@ d3js api 사용
 ```
 ## 개선사항
 ```bash
-googlemap api를 이용하여 이후 gps 데이터 수신<p>
-수신한 데이터를 바탕으로 그래프 표시<p>
+googlemap api를 이용하여 이후 gps 데이터 수신
+수신한 데이터를 바탕으로 그래프 표시
 ip adress를 이용하여 사용자의 현위치표시
 ```
 
